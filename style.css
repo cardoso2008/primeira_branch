@@ -6,6 +6,8 @@ body{
 
 
 h1 {
-    color: white;
+    color: rgb(255, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
 }
 
